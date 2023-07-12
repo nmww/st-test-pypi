@@ -13,7 +13,7 @@ to write your content.
 
 - 安装pip
 
---  pip install example_package_shengtong
+##  pip install example_package_shengtong
 
 
 '''
@@ -26,6 +26,9 @@ to write your content.
 ~/.local/lib/python3.10/site-packages
 
 ----  
+
+
+- 使用方法
 
 
 '''js  
